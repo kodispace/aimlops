@@ -1,5 +1,3 @@
-Sure, let me take a look at the provided file and then I'll explain the project in detail.
-
 ### Project Overview: Employee Attrition Prediction
 
 #### Objective
