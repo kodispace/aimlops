@@ -1,4 +1,3 @@
-
 1. **Explain the difference between Artificial Intelligence (AI), Machine Learning (ML), and Deep Learning.**
    - **Artificial Intelligence (AI)**: A broad field aiming to create machines capable of performing tasks that require human intelligence, such as reasoning, learning, and problem-solving.
    - **Machine Learning (ML)**: A subset of AI that focuses on developing algorithms that allow computers to learn from and make predictions based on data.
